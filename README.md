@@ -1,6 +1,2 @@
-# Data-Hack
-Repositório com códigos para análise de dados
-
-Primeiro Push
-
-Testando Pull Request
+# Hacker-rank
+Repositório com desafios do site https://www.hackerrank.com
